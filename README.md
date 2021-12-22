@@ -12,7 +12,7 @@ Reflection for this semester.
 
 ### Part2 - ICES
 
-During the semester, I completed 8 individual coding exercises. I learned about data manipulation techniques and various educational data mining methods, including Regression, Classification, Clustering, PCA, Diagnostic Metrics, and Social Network Analysis etc.
+Through this course, I have learned numerous educationa data mining and manipulation skills such as produce perdiction using Regression, Classification, Clustering, PCA, Diagnostic Metrics, and Social Network Analysis.
 
 
 * [ICE1 - Introduction to Data Manipulation in Python](https://github.com/wendyweng0509/HUDK4050_EDM_Portfolio/blob/main/ICE/ICE1.ipynb)
@@ -26,7 +26,7 @@ During the semester, I completed 8 individual coding exercises. I learned about 
 
 ### Part 3 - ACAs
 
-The 4 Analysis Challenge Assignments helped me practice what I have learned in class with real-world problems. In ACA1, I used data masking to access the specific data elements that are needed. In ACA2, I adopted logistic regression and decision tree to build the classifier for prediction. In ACA3, I tried PCA and Silhouette Coefficient to reduce dimension and identify clusters. In ACA4, I applied social network analysis to identify and analyze a network.
+The ACAS offered me a taste of working with real-world data. In ACA1 I employed data masking techniques to filter out the data i need. While ACA 2 got me engaged in training logistic regression with dataset and building decision tree to do perdiction and classification works. ACA 3 and 4 familiarize me with clustering, PCA, and social network analysis.
 
 * [ACA1](https://github.com/wendyweng0509/HUDK4050_EDM_Portfolio/blob/main/ACA/ACA1.ipynb)
 * [ACA2](https://github.com/wendyweng0509/HUDK4050_EDM_Portfolio/blob/main/ACA/ACA2.ipynb)
@@ -35,6 +35,6 @@ The 4 Analysis Challenge Assignments helped me practice what I have learned in c
 
 ### Part 4 - Creative EDM Assignment
 
-The final Creative EDM Assignment required us to identify our own inquiry questions and craft an analytical plan. Our question is, how can schools help their students with course selection? Then we chose to use Social Network Analysis and Clustering to provide students with more information that could help them with class selection.
+The final Creative EDM Assignment challenge our group with identifying inquiry problems and proposing an analytical plan comprise with our unique solution. Our question is, how can schools help their students with course selection? We opted for employing Social Network Analysis and Clustering to provide students with more information that could help them with class selection.
 
 * [Creative EDM Assignment - Course Selection](https://github.com/wendyweng0509/HUDK4050_EDM_Portfolio/blob/main/Creative%20EDM%20Assignment/Creative%20EDM%20Assignment%20-%20Courses%20Selection.pdf)
